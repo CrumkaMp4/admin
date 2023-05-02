@@ -11,9 +11,9 @@ const users = [
   { username: 'zus', password: 'xuLbZk6z' },
   { username: 'dx', password: 'e5VqXaoZ' },
   { username: 'ded', password: 'oIagrBkw' },
-  { username: 'd3pre', password: 'hcLQyyDe' }
-  { username: 'stitch', password: 'l6PdLG8s'}
-  { username: 'pavel', password: 'skfMyD6G'}
+  { username: 'd3pre', password: 'hcLQyyDe' },
+  { username: 'stitch', password: 'l6PdLG8s'},
+  { username: 'pavel', password: 'skfMyD6G'},
 ];
 
 form.addEventListener('submit', function(event) {
