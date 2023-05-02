@@ -14,6 +14,7 @@ const users = [
   { username: 'd3pre', password: 'hcLQyyDe' },
   { username: 'stitch', password: 'l6PdLG8s'},
   { username: 'pavel', password: 'skfMyD6G'},
+  { username: '1', password: '1'},
 ];
 
 form.addEventListener('submit', function(event) {
